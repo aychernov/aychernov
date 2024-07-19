@@ -1,6 +1,26 @@
-## Hi there 👋
+<p align="center">
 
-- 🔭 I’m currently working on AlfaBank
+  <br>
+  <br>
+  
+  <img width="200" src="https://kirlovon.github.io/Kirlovon/cat.gif">
+ 
+  <br>
+  <br>
+  
+  <samp>
+    <i>Hey!</i> I'm <b>Aleksandr</b>.
+    <br> 
+    I'm a Frontend Developer
+    <br>
+    <br>
+    <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>, <i>#vue</i>
+  </samp>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
-- 💬 Ask me about your project sashacool75@gmail.com
-- 📫 How to reach me: [TG](https://t.me/aychern) / [LinkedIn](https://www.linkedin.com/in/chernovay/)
+</p>
