@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <img width="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+  <img width="200" src="https://aychernov.github.io/aychernov/code.gif">
  
   <br>
   <br>
