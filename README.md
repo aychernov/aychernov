@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <img width="200" src="https://aychernov.github.io/aychernov/code.gif">
+  <img width="200" src="https://github.com/aychernov/aychernov/blob/main/code.gif">
  
   <br>
   <br>
