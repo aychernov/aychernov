@@ -15,7 +15,7 @@
     I'm a Frontend Developer
     <br>
     <br>
-    <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#svelte</i>, <i>#node</i>, <i>#vue</i>
+    <i>#js</i>, <i>#ts</i>, <i>#react</i>, <i>#node</i>, <i>#vue</i>
   </samp>
   
   <br>
